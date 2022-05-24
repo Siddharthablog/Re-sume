@@ -26,3 +26,11 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 - Key Strengths: Can easily ramp up and understand software and hardware technology.
 - Domain knowledge: IoT Cloud, Cloud computing, Data Centre, Virtualization, Machine learning.
 
+### Technical Skills
+- **Authoring Guideline** &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; MSTP, DITA and STE
+- **Authoring Tools** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Arbotext Editor 7.0, Adobe Robohelp 2017
+- **Version Control Tools** &nbsp;&nbsp;&nbsp;&nbsp; GIT, Tortorise SVN, Bitbucket
+- **Video Capturing Tool** &nbsp;&nbsp;&nbsp;&nbsp; TechSmith Camtasia
+- **Text Editor** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notepad++, Sublimetext, Visual Studio Code
+- **IDE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IntelliJ IDEA
+
