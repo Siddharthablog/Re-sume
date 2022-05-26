@@ -37,8 +37,8 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 - **Automation Testing Tool:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xenu's Link Sleuth link checker
 - **Continuous Integration Tool:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jenkins
 - **Text Editor:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notepad++, Sublimetext, Visual Studio Code
-- **IDE:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IntelliJ IDEA
-- **Programming Languages:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, HTML, XML, Markdown, JSON
+- **IDE:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IntelliJ IDEA
+- **Programming Languages:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, HTML, XML, Markdown, JSON
 - **Web-based collaborative platform:** &nbsp;&nbsp;SharePoint
 - **Open Source Documentation Tools:** &nbsp;Sphinx Documentation, GITHUB, Wordpress
 
@@ -47,17 +47,27 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 - [EXIN Agile Scrum Foundation](https://app.exeed.pro/holder/badge/86598)
 - [Fundamental Certification Program in Technical Writing, The Writers Block (TWB).](TechnicalWriting.md)
 - Certified for successfully completion of XML Essential Training and API documentation
-with JSON (LinkedIn).
+with JSON.
 - Certified for volunteering in Society for Technical Communication event held at Unisys,
 Hewlett-Packard and Dell EMC.
 
 ## Professional Experience
 ### Xylem
 ### Lead Technical Writer (June 2020 to date)
-- Working on end-to-end kifecycle of IoT solution.
+
+**Domain:** IoT Cloud, IoT Applications
+
+**Project:** Xylem Cloud, Visenti
+- Working on end-to-end lifecycle of IoT solution documentation, which inclues IoT Cloud, IoT Applications, IoT Gateways.
+- Working in two week agile environment.
+- Providing demo to skateholders after each sprint completion.
+- Interacting with geographically distributed SME’s to update the Xylem Cloud user guide.
+- Providing guidance to junior writers.
+- Translation team
+- Working with developers in source code to generate well written swagger documentation.
 - Working in Agile Mode.
 - Range of documentation deliverables includes: API documentation, Developer
-Guide, Release Notes, Installation and Implementation Guide, Technical Specification document.
+Guide, Integration Guide, Release Notes, Installation and Implementation Guide, Technical Specification document.
 
 ### Unisys
 ### Senior Technical Writer (April 2017 to May 2020)
