@@ -17,8 +17,8 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 ## Summary of Experience
 - I have 7.4 years of experience in writing end-user documentation for software and hardware products.
 - Participated in project deliveries as a team member and worked on projects as an individual contributor.
-- Proficient in Information Mapping, correct usage of XML tags, and conditional tagging.
 - Good knowledge of Documentation Development Life Cycle (DDLC) and Software development Life Cycle (SDLC).
+- Proficient in Information Mapping, correct usage of XML tags, and conditional tagging.
 - Experience in structured writing, single-sourcing, minimalist writing, and reuse.
 - Experience in writing software documentation in an Agile environment.
 - Experience in working with complex software, hardware products and producing easy to understand technical documents such as User Guides, Developer Guides, API documentation, and Technical Specification documents etc.
@@ -59,13 +59,13 @@ Hewlett-Packard and Dell EMC.
 
 **Project:** Xylem Cloud, Visenti
 - Working on end-to-end lifecycle of IoT solution documentation, which inclues IoT Cloud, IoT Applications, IoT Gateways.
+- Interacting with geographically distributed SME’s to update the Xylem Cloud user guide.
+- Working with Translation team for UI strings translation.
+- Working with developers in source code to generate well written swagger documentation.
 - Working in two week agile environment.
 - Providing demo to skateholders after each sprint completion.
-- Interacting with geographically distributed SME’s to update the Xylem Cloud user guide.
-- Providing guidance to junior writers.
-- Translation team
-- Working with developers in source code to generate well written swagger documentation.
-- Working in Agile Mode.
+- Reviewing peer documentation to ensure the document quality and technical accuracy.
+- Conducting knowledge transfer sessions and mentor new joiners and interns.
 - Range of documentation deliverables includes: API documentation, Developer
 Guide, Integration Guide, Release Notes, Installation and Implementation Guide, Technical Specification document.
 
