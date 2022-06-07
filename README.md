@@ -64,8 +64,8 @@ Hewlett-Packard and Dell EMC.
 **Domain:** IoT Cloud, IoT Applications
 
 **Project:** Xylem Cloud, Visenti
-- Working on end-to-end lifecycle of IoT solution documentation, which inclues IoT Cloud, IoT Applications, IoT Gateways.
-- Interacting with geographically distributed SME’s to update the Xylem Cloud user guide.
+- Responsible for handling end-to-end lifecycle of IoT solution documentation, which inclues IoT Cloud, IoT Applications, IoT Gateways.
+- Interacting with geographically distributed SME’s to update the Xylem Cloud user guide, release notes, developer guide etc.
 - Working with Translation team for UI strings translation.
 - Working with developers in source code to generate well written Swagger documentation.
 - Working on 3 different clients with single-source files.
@@ -79,7 +79,7 @@ Guide, Integration Guide, SDK documentation Release Notes, Technical Specificati
 ### Unisys
 ### Senior Technical Writer (April 2017 to May 2020)
 
-**Domain:** Data Centre, Cloud Computing, Supply Chnain Management
+**Domain:** Data Centre, Cloud Computing, Supply Chain Management
 
 **Project:** Clearpath Forward, LMS-NG
 - Worked on end-to-end documentation process, which includes information gathering,
