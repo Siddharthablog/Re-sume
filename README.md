@@ -33,7 +33,7 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 |   |     |
 |---|---|
 |**Authoring Guideline**  | MSTP, DITA and STE  |
-|**Authoring Tools** | Adobe FrameMaker 2017, Adobe Robohelp 2017, Confluence|
+|**Authoring Tools** | Adobe FrameMaker, Adobe Robohelp, Arbortext Editor, Confluence|
 | **CCMS**  | Astoria  |
 | **CMS**  | Contenta  |
 |  **Version Control Tools** |GIT, Tortorise SVN, Bitbucket   |
