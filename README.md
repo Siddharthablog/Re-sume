@@ -44,7 +44,8 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 | **IDE**  | IntelliJ IDEA  |
 | **API**  | RESTful  |
 | **Programming Languages**  | Java, HTML, Javascript, XML, Markdown, JSON, reStructuredText  |
-| **Linguistic checker Tool**  | Acrolinx  |
+| **Linguistic Checker Tool**  | Acrolinx  |
+| **Agile Project Management Tool**  | JIRA  |
 |**Open Source Documentation Tools**  | Sphinx Documentation, GITHUB, Wordpress  |
 
 ## Certification Program
@@ -77,11 +78,16 @@ Guide, Integration Guide, SDK documentation Release Notes, Technical Specificati
 
 ### Unisys
 ### Senior Technical Writer (April 2017 to May 2020)
+
+**Domain:** Data Centre, Cloud Computing, Supply Chnain Management
+
+**Project:** Clearpath Forward, LMS-NG
 - Worked on end-to-end documentation process, which includes information gathering,
 planning, content analysis, execution, testing, delivery and project metrics.
 - Created technical documentation for Fabric Computing Manager (Data Centre Monitoring solution) and Digistics (Transportation solution) software products.
 - Created Ditaval files in XML for generating separate client-specific webhelp.
 - Analyzed user stories and updated the webhelp accordingly.
+- Added new functionality on existing guides based on enhancements or customizations done in the software.
 - Troubleshooting errors in Jenkins build.
 - Verified broken link through automation testing tool Xenu Sleth.
 - Range of documentation deliverables includes: Webhelp, Administration and Operational
