@@ -21,27 +21,31 @@ Dayananda Sagar College of Engineering, Bangalore, 2014.
 - Proficient in Information Mapping, correct usage of XML tags, and conditional tagging.
 - Proficient in structured writing, single-sourcing, minimalist writing, and reuse.
 - Experience in writing software documentation in an Agile environment.
-- Experience in working with complex software, hardware products and producing easy to understand technical documents such as User Guides, Developer Guides, API documentation, and Technical Specification documents etc.
+- Experience in working with complex software, hardware products and producing easy to understand technical documents such as User Guides, Developer Guides, API documentation, SDK documentation, Technical Specification documentation, UAT guide etc.
 - Experience in working with a docs as code workflow.
 - Experience in working with developers in source code to update Swagger Annotation.
-- Key Strengths: Can easily ramp up and understand software and hardware technology.
-- Domain knowledge: IoT Cloud, Cloud computing, Data Centre, Virtualization, Machine learning, Connected Devices.
+- Participated in Watermark event to build a water tower for a school in a rural area.
+- **Key Strengths:** Can easily ramp up and understand software and hardware technology.
+- **Domain knowledge:** IoT Cloud, Cloud computing, Data Centre, Microservices, Machine learning, Connected Devices, Web CMS.
 
 ### Technical Skills
-- **Authoring Guideline:** &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MSTP, DITA and STE
-- **Authoring Tools:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe FrameMaker 2017, Adobe Robohelp 2017, Confluence
-- **CCMS:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Astoria
-- **CMS:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contenta
-- **Version Control Tools:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GIT, Tortorise SVN, Bitbucket
-- **Video Capturing Tool:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TechSmith Camtasia
-- **Graphics Tool:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Adobe Illustrator
-- **Automation Testing Tool:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Xenu's Link Sleuth link checker
-- **Continuous Integration Tool:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jenkins
-- **Text Editor:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Notepad++, Sublimetext, Visual Studio Code
-- **IDE:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IntelliJ IDEA
-- **Programming Languages:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java, HTML, XML, Markdown, JSON
-- **Linguistic checker Tool:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Acrolinx
-- **Open Source Documentation Tools:** &nbsp;Sphinx Documentation, GITHUB, Wordpress
+
+|   |     |
+|---|---|
+|**Authoring Guideline**  | MSTP, DITA and STE  |
+|**Authoring Tools** | Adobe FrameMaker 2017, Adobe Robohelp 2017, Confluence|
+| **CCMS**  | Astoria  |
+| **CMS**  | Contenta  |
+|  **Version Control Tools** |GIT, Tortorise SVN, Bitbucket   |
+|**Video Capturing Tool**  | TechSmith Camtasia  |
+| **Graphics Tool**  |Adobe Illustrator |
+| **Automation Testing Tool**  | Xenu's Link Sleuth link checker  |
+| **Text Editor**  | Notepad++, Sublimetext, Visual Studio Code  |
+| **IDE**  | IntelliJ IDEA  |
+| **API**  | RESTful  |
+| **Programming Languages**  | Java, HTML, Javascript, XML, Markdown, JSON, reStructuredText  |
+| **Linguistic checker Tool**  | Acrolinx  |
+|**Open Source Documentation Tools**  | Sphinx Documentation, GITHUB, Wordpress  |
 
 ## Certification Program
 - [EXIN Agile Scrum Master Certification](https://app.exeed.pro/badge/108569)
@@ -62,14 +66,14 @@ Hewlett-Packard and Dell EMC.
 - Working on end-to-end lifecycle of IoT solution documentation, which inclues IoT Cloud, IoT Applications, IoT Gateways.
 - Interacting with geographically distributed SME’s to update the Xylem Cloud user guide.
 - Working with Translation team for UI strings translation.
-- Working with developers in source code to generate well written swagger documentation.
+- Working with developers in source code to generate well written Swagger documentation.
 - Working on 3 different clients with single-source files.
 - Working in two week agile environment.
 - Providing demo to skateholders after each sprint completion.
 - Reviewing peer documentation to ensure the document quality and technical accuracy.
-- Conducting knowledge transfer sessions and mentor new joiners and interns.
+- Conducting knowledge transfer sessions and mentoring new joiners and interns.
 - Range of documentation deliverables includes: API documentation, Developer
-Guide, Integration Guide, Release Notes, Installation and Implementation Guide, Technical Specification document, UAT Guide.
+Guide, Integration Guide, SDK documentation Release Notes, Technical Specification document, UAT Guide.
 
 ### Unisys
 ### Senior Technical Writer (April 2017 to May 2020)
