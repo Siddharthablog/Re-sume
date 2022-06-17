@@ -105,6 +105,6 @@ Bachelor of Engineering (Computer Science), Visvesvaraya Technological Universit
 - [EXIN Agile Scrum Master Certification](https://app.exeed.pro/badge/108569)
 - [EXIN Agile Scrum Foundation](https://app.exeed.pro/holder/badge/86598)
 - [Fundamental Certification Program in Technical Writing, The Writers Block (TWB).](TechnicalWriting.md)
-- [Certified for successful completion of XML Essential Training and API documentation with JSON.](XML.md)
+- [Certified for successful completion of XML Essential Training and API documentation with JSON.](JSONAPI.md)
 - Certified for volunteering in Society for Technical Communication event held at Unisys,
 Hewlett-Packard and Dell EMC.
