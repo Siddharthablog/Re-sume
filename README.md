@@ -87,7 +87,7 @@ Bachelor of Engineering (Computer Science), Visvesvaraya Technological Universit
 
 
 ### Kreatio Software Private Limited
-### Technical Writer (January 2015 to March 2017)
+**Technical Writer (January 2015 to March 2017)**
 
 **Domain:** Web Content Management System, ERP
 
