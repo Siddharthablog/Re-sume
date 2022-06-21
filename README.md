@@ -11,22 +11,23 @@
 **Email ID:** mani.siddhartha@gmail.com
 
 ## Career Objective
-To be a potential resource for the organization where I can utilize all my skills and knowledge, which would help the organization to grow and further enhance my growth profile.
+A seasoned technical writer with a goal to be a potential lead in enhancing customer experience and improving customer engagement through end-customer documentation for cutting-edge technologies.
 
 ## Educational Qualification
 Bachelor of Engineering (Computer Science), Visvesvaraya Technological University, Dayananda Sagar College of Engineering, Bangalore, 2014.
 
 ## Summary of Experience
-- Experienced Technical Writer with a demonstrated history of working in various phases of Software Development Life Cycle and Document Development Life Cycle including requirements gathering, analysis, design, development, proof-reading, publishing and maintenance.
-- Good technical acumen, ability to understand and interpret highly technical information to clear and concise documentation.
-- Participated in project deliveries as a team member and worked on projects as an individual contributor.
+- Experience in writing API documentation for API users, such as API reference docs and developer guides.
 - Proficient in Information Mapping, correct usage of XML tags, and conditional tagging.
 - Proficient in structured writing, single-sourcing, minimalist writing, and reuse.
-- Experience in writing software documentation in an Agile environment.
-- Experience in working with complex software, hardware products and producing easy-to-understand technical documents such as User Guides, Developer Guides, API documentation, SDK documentation, Technical Specification documentation, UAT Guide etc.
+- Ability to set priorities and undertake complex tasks with minimal supervision.
 - Experience in working with a docs-as-code workflow.
 - Experience in working with developers in source code to update Swagger API Annotations.
-- Participated in Watermark event to build a water tower for a school in a rural area.
+- Experience in writing software documentation in an Agile environment.
+- Good technical acumen, ability to understand and interpret highly technical information to clear and concise documentation.
+- Ability to effectively manage documentation projects from start to finish and deliver customer-focused documentation
+- Experience in working with complex software, hardware products and producing easy-to-understand technical documents such as User Guides, Developer Guides, API documentation, SDK documentation, Technical Specification documentation etc.
+- Participated in project deliveries as a team member and worked on projects as an individual
 - **Key Strengths:** Can easily ramp up and understand software and hardware technology.
 - **Domain knowledge:** IoT Cloud, Cloud computing, Data center, Microservices, Machine learning, Connected devices.
 
@@ -35,21 +36,21 @@ Bachelor of Engineering (Computer Science), Visvesvaraya Technological Universit
 
 |   |     |
 |---|---|
-|**Authoring Guideline**  | MSTP and STE  |
-|**Authoring Tools** | Adobe FrameMaker, Adobe Robohelp, Confluence |
-| **CCMS**  | Astoria (DITA)  |
-| **CMS**  | Contenta (DITA)  |
-|  **Version Control Tools** | GIT, TortoiseSVN , Bitbucket   |
+|**Style Guide**  | MSTP and STE  |
+|**Authoring Tools** | Adobe FrameMaker, Adobe Robohelp, Arbourtext Editor, Oxygen XML |
+| **CCMS**  | Astoria, Contenta (DITA)  |
+| **Version Control Tools** | GIT, TortoiseSVN , Bitbucket   |
 |**Video Capturing Tool**  | TechSmith Camtasia  |
-| **Graphics Tool**  |Adobe Illustrator |
+| **Graphics Tool**  |Adobe Illustrator, draw.io |
 | **Automation Testing Tool**  | Xenu's Link Sleuth link checker  |
-| **Editor**  | Arbortext Editor, Notepad++, Sublime Text, Visual Studio Code  |
+| **Editor**  | Notepad++, Sublime Text, Visual Studio Code  |
 | **IDE**  | IntelliJ IDEA  |
 | **API Tool**  | Swagger  |
 | **Programming Languages**  | Java, HTML, JavaScript, XML, Markdown, JSON, reStructuredText  |
 | **Linguistic Checker Tool**  | Acrolinx  |
-| **Agile Project Management Tool**  | JIRA  |
+| **Management Tools**  | JIRA, Confluence  |
 |**Open Source Documentation Tools**  | Sphinx Documentation, GitHub, WordPress  |
+|**Methodology**  | DDLC, SDLC, Agile |
 
 ## Professional Experience
 ### Xylem Inc
